@@ -1,4 +1,4 @@
-# Portfolio of Vinayak Singh
+# Portfolio of Yogeshwaran N
 
 <img src ="" />
  
@@ -10,7 +10,3 @@ This is my portfolio website to introduce myself, here I put my skills, projects
 - React
 - Typescript
 - Styled Components
- 
-## To run this project:
-- yarn install
-- yarn run start
